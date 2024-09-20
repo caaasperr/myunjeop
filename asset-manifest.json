@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/myunjeop/static/css/main.9b521521.css",
-    "main.js": "/myunjeop/static/js/main.035221fd.js",
+    "main.js": "/myunjeop/static/js/main.acba967d.js",
     "static/js/453.5bf7fb30.chunk.js": "/myunjeop/static/js/453.5bf7fb30.chunk.js",
     "static/media/BM.ttf": "/myunjeop/static/media/BM.d20f6c68004f7588ee16.ttf",
     "index.html": "/myunjeop/index.html",
     "main.9b521521.css.map": "/myunjeop/static/css/main.9b521521.css.map",
-    "main.035221fd.js.map": "/myunjeop/static/js/main.035221fd.js.map",
+    "main.acba967d.js.map": "/myunjeop/static/js/main.acba967d.js.map",
     "453.5bf7fb30.chunk.js.map": "/myunjeop/static/js/453.5bf7fb30.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b521521.css",
-    "static/js/main.035221fd.js"
+    "static/js/main.acba967d.js"
   ]
 }
